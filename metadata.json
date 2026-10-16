@@ -1,0 +1,6 @@
+{
+  "name": "Kebumen International Container Terminal (KICT)",
+  "description": "Modern Terminal Operating System (TOS) for Kebumen International Container Terminal with Yard Planning, Gate System, Vessel Berth, Crane Tracking, e-EIR, Billing, and Analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
